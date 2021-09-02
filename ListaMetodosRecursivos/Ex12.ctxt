@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex12
+comment0.text=\r\nFa\u00E7a\ um\ programa\ que\ leia\ uma\ string\ e\ verifique\ se\ ela\ \u00E9\ pal\u00EDndrome.\ \r\nPal\u00EDndrome\ s\u00E3o\ aquelas\ palavras\ podem\ ser\ lidas\ tanto\ da\ esquerda\ para\ direita\ ou\ da\ direita\ para\ esquerda.\ \r\nExemplo\:\ arara.\ Crie\ um\ m\u00E9todo\ recursivo\ para\ verificar\ se\ a\ string\ \u00E9\ pal\u00EDndrome.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=frase
+comment2.target=boolean\ EhPalindrome(java.lang.String)
+comment3.params=frase\ i\ j
+comment3.target=boolean\ Palindrome(java.lang.String,\ int,\ int)
+numComments=4

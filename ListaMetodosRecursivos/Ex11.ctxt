@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex11
+comment0.text=\r\n\ Escreva\ um\ programa\ que\ l\u00EA\ um\ valor\ n\ inteiro\ e\ positivo,\ calcula\ e\ exibe\ a\ seguinte\ soma\:\ S\ \=\ 1\ +\ 2/3\ +\ 3/5\ +\ 4/7...\ \r\n\ O\ c\u00E1lculo\ de\ S\ deve\ ser\ feito\ por\ meio\ de\ um\ m\u00E9todo\ recursivo.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=double\ somaIterativa(double)
+comment3.params=x
+comment3.target=double\ somaRecursiva(double)
+numComments=4

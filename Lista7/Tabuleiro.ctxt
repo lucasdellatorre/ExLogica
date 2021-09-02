@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Tabuleiro
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Tabuleiro\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Tabuleiro()
+comment10.params=lin\ col\ jogador
+comment10.target=void\ posicao(int,\ int,\ char)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=void\ inicializa()
+comment3.params=letra
+comment3.target=boolean\ verificaVencedor(char)
+comment4.params=letra
+comment4.target=boolean\ venceuEmLinha(char)
+comment5.params=letra
+comment5.target=boolean\ venceuEmColuna(char)
+comment6.params=letra
+comment6.target=boolean\ venceuEmDiagonal(char)
+comment7.params=lin\ col\ letra
+comment7.target=boolean\ alteraCelula(int,\ int,\ char)
+comment8.params=
+comment8.target=int\ getContJogadas()
+comment9.params=lin\ col
+comment9.target=boolean\ celulaLivre(int,\ int)
+numComments=12

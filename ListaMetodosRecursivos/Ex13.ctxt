@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex13
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ uma\ string\ e\ substitua\ as\ vogais\ acentuadas\ pela\ vogais\ correspondentes\ sem\ acento.\ \r\n\ Crie\ um\ m\u00E9todo\ recursivo\ para\ fazer\ essa\ substitui\u00E7\u00E3o.\ Para\ simplificar\ sua\ implementa\u00E7\u00E3o\ \r\n\ considere\ apenas\ o\ acento\ agudo.\ Exemplo\:\ "\u00F3timo"\ deve\ se\ tornar\ "otimo".\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=frase
+comment2.target=java.lang.String\ ValidacaoVogais(java.lang.String)
+comment3.params=frase\ i
+comment3.target=java.lang.String\ Vogais(java.lang.String,\ int)
+numComments=4

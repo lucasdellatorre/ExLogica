@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex11
+comment0.text=\r\n\ Um\ banco\ conceder\u00E1\ um\ cr\u00E9dito\ especial\ aos\ seus\ clientes,\ vari\u00E1vel\ com\r\no\ saldo\ m\u00E9dio\ no\ \u00FAltimo\ ano.\ Fa\u00E7a\ um\ programa\ que\ leia\ o\ saldo\ m\u00E9dio\r\nde\ um\ cliente\ e\ calcule\ o\ valor\ do\ cr\u00E9dito\ de\ acordo\ com\ a\ tabela\ abaixo.\r\nMostre\ uma\ mensagem\ informando\ o\ saldo\ m\u00E9dio\ e\ o\ valor\ do\ cr\u00E9dito.\r\nImplemente\ um\ m\u00E9todo\ para\ calcular\ o\ valor\ do\ cr\u00E9dito.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=double\ credito(double)
+numComments=3

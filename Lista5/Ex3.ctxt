@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ex3\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ex3()
+comment2.params=a\ b
+comment2.target=void\ inicializar(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Ex18
+comment1.params=dimensao
+comment1.target=Ex18(int)
+comment2.params=
+comment2.target=void\ gerador()
+comment3.params=
+comment3.target=int[]\ uniao()
+comment4.params=
+comment4.target=int[]\ interseccao()
+comment5.params=
+comment5.target=int[]\ diferenca()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

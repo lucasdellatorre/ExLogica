@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex14
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ um\ valor\ x\ e\ um\ valor\ n.\ O\ valor\ n\ deve\ ser\ inteiro\ e\ positivo.\ \r\n\ O\ programa\ deve\ calcular\ e\ escrever\ a\ soma\ dos\ n\ primeiros\ termos\ da\ s\u00E9rie\:\ \ \r\n\ S\ \=\ x\ +\ x2/2\ +\ x3/3\ +\ ...\ O\ c\u00E1lculo\ de\ S\ deve\ ser\ feito\ por\ um\ m\u00E9todo\ recursivo.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ n
+comment2.target=double\ Soma(double,\ double)
+numComments=3

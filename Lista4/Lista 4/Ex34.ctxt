@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ex34
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ uma\ string\ e\ a\ escreva\ na\ ordem\ inversa.\ Crie\r\num\ m\u00E9todo\ que\ recebe\ a\ string\ como\ par\u00E2metro\ e\ a\ devolve\ invertida.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=palavras
+comment2.target=java.lang.String\ inverteStr(java.lang.String)
+comment2.text=\ public\ static\ String\ inv(String\ x)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ String\ frase,\ soma\ \=\ "";\r\n\ \ \ \ \ \ \ \ int\ cont\ \=\ 0;\r\n\ \ \ \ \ \ \ \ int\ nc\ \=\ x.length();\ //nc\ \=\ n\u00FAmero\ de\ caracteres\r\n\ \ \ \ \ \ \ \ int\ acumulador\ \=\ 1;\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ while(cont<nc)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ frase\ \=\ Character.toString(x.charAt(nc\ -\ acumulador));\r\n\ \ \ \ \ \ \ \ \ \ \ \ soma\ \=\ soma\ +\ frase;\r\n\ \ \ \ \ \ \ \ \ \ \ \ acumulador++;\r\n\ \ \ \ \ \ \ \ \ \ \ \ cont++;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ soma;\r\n}
+numComments=3

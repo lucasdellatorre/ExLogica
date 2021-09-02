@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ListaDeUsuarios
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ListaDeUsuarios\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=quantidade
+comment1.target=ListaDeUsuarios(int)
+comment2.params=nome
+comment2.target=boolean\ cadastrar(java.lang.String)
+comment3.params=matricula
+comment3.target=Usuario\ buscarMatricula(int)
+comment4.params=nome
+comment4.target=Usuario\ buscarNome(java.lang.String)
+comment5.params=matricula
+comment5.target=boolean\ excluir(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex2
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ 3\ valores\ e\ determine\ o\ maior\ deles.\ Use\ um\r\nm\u00E9todo\ para\ encontrar\ o\ maior\ valor.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=v1\ v2\ v3
+comment2.target=double\ omaior(int,\ int,\ int)
+numComments=3

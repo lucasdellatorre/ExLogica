@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex5
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ as\ coordenadas\ de\ 2\ pontos\ no\ plano\ (x1,\ y1)\ e\r\n(x2,\ y2).\ A\ seguir,\ o\ programa\ deve\ calcular\ e\ escrever\ a\ dist\u00E2ncia\ euclid\u0002iana\ e\ tamb\u00E9m\ a\ dist\u00E2ncia\ de\ Manhattan\ entre\ esses\ pontos.\ Para\ isso,\r\ndena\ um\ m\u00E9todo\ que\ calcula\ a\ dist\u00E2ncia\ euclidiana\ usando\ a\ f\u00F3rmula\:\r\n/**\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x\ x1\ y\ y1
+comment2.target=double\ eucli(double,\ double,\ double,\ double)
+comment3.params=x\ x1\ y\ y1
+comment3.target=double\ man(double,\ double,\ double,\ double)
+numComments=4

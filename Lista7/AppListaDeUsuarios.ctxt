@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AppListaDeUsuarios
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=listaU1
+comment2.target=void\ cadastro(ListaDeUsuarios)
+comment3.params=listaU1
+comment3.target=void\ busca(ListaDeUsuarios)
+comment4.params=listaU1
+comment4.target=void\ buscaPorNome(ListaDeUsuarios)
+comment5.params=listaU1
+comment5.target=void\ exclui(ListaDeUsuarios)
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AppEstacionamento
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pklot
+comment2.target=void\ inserirCarro(Estacionamento)
+comment3.params=pklot
+comment3.target=void\ manobraPlaca(Estacionamento)
+comment4.params=pklot
+comment4.target=void\ manobraPosicao(Estacionamento)
+comment5.params=pklot
+comment5.target=void\ saidaPlaca(Estacionamento)
+comment6.params=pklot
+comment6.target=void\ saidaPosicao(Estacionamento)
+comment7.params=pklot
+comment7.target=void\ especificacoes(Estacionamento)
+numComments=8

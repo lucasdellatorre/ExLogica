@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JogoDaVelha
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=jogo\ letra
+comment2.target=void\ jogador1(Tabuleiro,\ char)
+comment3.params=jogo\ letra
+comment3.target=void\ jogador2(Tabuleiro,\ char)
+numComments=4

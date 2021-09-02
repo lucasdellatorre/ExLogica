@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AppListaDeAlocacoes
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=l1
+comment2.target=void\ alteraAutor(ListaDeLocacoes)
+comment3.params=l1
+comment3.target=void\ buscaCod(ListaDeLocacoes)
+comment4.params=l1
+comment4.target=void\ buscaAutor(ListaDeLocacoes)
+comment5.params=l1
+comment5.target=void\ excluiLivro(ListaDeLocacoes)
+comment6.params=l1
+comment6.target=void\ cadastraLivro(ListaDeLocacoes)
+numComments=7

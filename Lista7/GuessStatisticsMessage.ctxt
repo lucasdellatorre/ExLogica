@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GuessStatisticsMessage
+comment1.params=candidate\ count
+comment1.target=java.lang.String\ make(char,\ int)
+comment2.params=count
+comment2.target=void\ createPluralDependentMessageParts(int)
+comment3.params=count
+comment3.target=void\ thereAreManyLetters(int)
+comment4.params=
+comment4.target=void\ thereIsOneLetter()
+comment5.params=
+comment5.target=void\ thereAreNoLetters()
+numComments=6

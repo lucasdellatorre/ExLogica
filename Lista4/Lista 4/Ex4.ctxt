@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex4
+comment0.text=\r\n\ Crie\ um\ programa\ que\ l\u00EA\ o\ tempo\ atual\ em\ hora,\ minuto\ e\ segundo,\ e\ o\r\nescreve\ em\ segundos\ quanto\ tempo\ se\ passou\ desde\ que\ o\ dia\ come\u00E7ou.\r\nEssa\ convers\u00E3o\ deve\ ser\ calculada\ por\ um\ m\u00E9todo.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=v
+comment2.target=int\ conversaoh(int)
+comment3.params=v
+comment3.target=int\ conversaom(int)
+numComments=4

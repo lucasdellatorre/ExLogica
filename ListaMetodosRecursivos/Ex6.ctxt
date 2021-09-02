@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex6
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ um\ valor\ n\ qualquer\ (inteiro\ e\ positivo).\ \r\n\ O\ programa\ deve\ escrever\ o\ n-\u00E9simo\ termo\ da\ s\u00E9rie\ de\ Fibonacci.\ \r\n\ Os\ termos\ desse\ s\u00E9rie\ s\u00E3o\ 1,1,2,3,5,8,13,21,...\ \r\n\ O\ n-\u00E9simo\ termo\ deve\ ser\ calculado\ por\ um\ m\u00E9todo\ recursivo.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=n
+comment2.target=int\ fibonacci2(int)
+comment3.params=f
+comment3.target=int\ fibonacci(int)
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex10
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ a\ altura\ e\ o\ sexo\ de\ uma\ pessoa\ (1\ para\r\nmasculino\ e\ 2\ para\ feminino),\ calcule\ e\ escreva\ o\ seu\ peso\ ideal,\ utilizando\r\nas\ f\u00F3rmulas\ abaixo.\ Implemente\ um\ m\u00E9todo\ para\ calcular\ o\ peso\ ideal.\r\n\u2022\ para\ homens\:\ (72.7\ \u00D7\ altura)\ \u2212\ 58\r\n\u2022\ para\ mulheres\:\ (62.1\ \u00D7\ altura)\ \u2212\ 44.7\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=double\ pesom(double)
+comment3.params=x
+comment3.target=double\ pesow(double)
+numComments=4

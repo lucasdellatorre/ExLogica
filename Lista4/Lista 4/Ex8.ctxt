@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex8
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ um\ n\u00FAmero\ inteiro\ de\ 4\ d\u00EDgitos\ e\ o\ escreva\r\ninvertido.\ Exemplo\:\ 1234\ ->\ 4321\ .\ A\ invers\u00E3o\ do\ valor\ deve\ ser\ feita\ por\r\num\ m\u00E9todo.\ S\u00F3\ podem\ ser\ usados\ valores\ inteiros.\ O\ valor\ de\ entrada\ n\u00E3o\r\npode\ ser\ lido\ digito\ a\ d\u00EDgito.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=x
+comment2.target=java.lang.String\ inv(int)
+numComments=3

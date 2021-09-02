@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ex9
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ dois\ valores\ x\ e\ y\ quaisquer\ (inteiros\ e\ positivos).\ \r\n\ O\ programa\ deve\ escrever\ o\ produto\ de\ x\ por\ y.\ \r\n\ O\ produto\ deve\ ser\ encontrado\ a\ partir\ de\ um\ m\u00E9todo\ recursivo.\ N\u00E3o\ pode\ usar\ o\ operador\ de\ multiplica\u00E7\u00E3o.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=int\ prod(int,\ int)
+numComments=3

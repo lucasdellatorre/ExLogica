@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OperaVetor
+comment1.params=
+comment1.target=OperaVetor()
+comment2.params=
+comment2.target=void\ gerador()
+comment3.params=p
+comment3.target=int\ pesquisar(int)
+comment4.params=p\ num
+comment4.target=boolean\ substituir(int,\ int)
+comment5.params=num
+comment5.target=boolean\ inserir(int)
+comment6.params=num
+comment6.target=boolean\ remover(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

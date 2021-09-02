@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExPlaca2
+comment0.text=\r\n\ (AAA0A00).\ \r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=placa
+comment2.target=boolean\ Validaplaca(java.lang.String)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex5
+comment0.text=\r\n\ Fa\u00E7a\ um\ programa\ que\ leia\ uma\ string\ qualquer\ e\ escreve\ a\ quantidade\ de\ letras\ A\ que\ a\ mesma\ possui.\ \r\n\ Para\ isso,\ crie\ um\ m\u00E9todo\ recursivo\ que\ receba\ uma\ string\ qualquer\ e\ devolve\ a\ quantidade\ de\ letras\ A\ que\ ela\ possui.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=frase
+comment2.target=int\ ValidaFrase(java.lang.String)
+comment3.params=frase\ i
+comment3.target=int\ QtdA(java.lang.String,\ int)
+numComments=4
